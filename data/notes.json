@@ -1,0 +1,275 @@
+{
+    "notes": [
+        {
+            "id": "rose",
+            "name": "Rose",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-2.jpg",
+            "description": "flower-note: Invigorating mint fragrance perfect for daytime"
+        },
+        {
+            "id": "exotic-rose",
+            "name": "Exotic Rose",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-3.jpg",
+            "description": "A richer, deeper rose note with warm sweetness and smooth floral depth"
+        },
+        {
+            "id": "jasmine",
+            "name": "Jasmine",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-4.jpg",
+            "description": "Bright, soft floral aroma that adds purity and serenity to any space"
+        },
+        {
+            "id": "lavender",
+            "name": "Lavender",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-5.png",
+            "description": "Calming lavender that refreshes the air and relaxes the senses"
+        },
+        {
+            "id": "english-lavender",
+            "name": "English Lavender",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-6.png",
+            "description": "A premium lavender blend with cleaner, more aromatic tones"
+        },
+        {
+            "id": "lily",
+            "name": "Lily",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-7.jpg",
+            "description": "Light, fresh floral notes ideal for elegant and peaceful interiors"
+        },
+        {
+            "id": "rajnigandha",
+            "name": "Rajnigandha",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-8.jpg",
+            "description": "Strong, traditional floral fragrance with long-lasting freshness"
+        },
+        {
+            "id": "vanilla",
+            "name": "Vanilla",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-9.jpg",
+            "description": "Soft, warm sweetness with a comforting floral-creamy finish"
+        },
+        {
+            "id": "impression",
+            "name": "Impression",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-10.jpg",
+            "description": "A polished floral blend with a premium perfume-like feel"
+        },
+        {
+            "id": "amiraj",
+            "name": "Amiraj",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-11.jpg",
+            "description": "A traditional floral aroma with a hint of fruity and woody notes"
+        },
+        {
+            "id": "orchid",
+            "name": "Orchid",
+            "collection": "flower-note",
+            "image": "fragrance/flower-note/p-12.jpg",
+            "description": "A soft, sweet floral scent with a luxurious, velvety finish"
+        },
+        {
+    "id": "mango",
+    "name": "Mango",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-2.png",
+    "description": "A sweet, tropical mango burst that instantly brightens the space"
+  },
+  {
+    "id": "green-apple",
+    "name": "Green Apple",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-3.png",
+    "description": "Fresh, crisp, fruity notes with a refreshing green zing"
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-4.png",
+    "description": "Sweet, tangy tropical freshness ideal for lively spaces"
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-5.png",
+    "description": "Zesty, vibrant citrus aroma that energizes the room"
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-6.png",
+    "description": "Clean, sharp citrus scent that refreshes instantly"
+  },
+  {
+    "id": "citrus",
+    "name": "Citrus",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-7.png",
+    "description": "A balanced mix of lemon, lime, and orange for instant brightness"
+  },
+  {
+    "id": "strawberry",
+    "name": "Strawberry",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-8.png",
+    "description": "Sweet berry fragrance with a soft fruity sweetness"
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-9.png",
+    "description": "Refreshing tropical-green fruity scent"
+  },
+  {
+    "id": "exotic-fruit",
+    "name": "Exotic (Fruit)",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-10.png",
+    "description": "A blend of multiple bright fruits for vibrant freshness"
+  },
+  {
+    "id": "cherry",
+    "name": "Cherry",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-11.png",
+    "description": "Sweet cherry aroma with juicy red-fruit tones"
+  },
+  {
+    "id": "tango",
+    "name": "Tango",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-12.png",
+    "description": "A playful citrus-fruit combination with lively energy..."
+  },
+  {
+    "id": "expression",
+    "name": "Expression",
+    "collection": "fruit-note",
+    "price": 5499,
+    "image": "fragrance/fruit-note/p-13.png",
+    "description": "A stylish fruity-floral blend with soft freshness"
+  },
+  {
+    "id": "lemon-grass",
+    "name": "Lemon Grass",
+    "collection": "green-water",
+    "price": 5499,
+    "image": "fragrance/green-water/p-2.png",
+    "description": "Crisp, herbal citrus aroma that feels clean and refreshing"
+  },
+  {
+    "id": "vibrant",
+    "name": "Vibrant",
+    "collection": "green-water",
+    "price": 5499,
+    "image": "fragrance/green-water/p-3.png",
+    "description": "Energetic green herbal fragrance with lively freshness"
+  },
+  {
+    "id": "coolmint",
+    "name": "Coolmint",
+    "collection": "green-water",
+    "price": 5499,
+    "image": "fragrance/green-water/p-4.png",
+    "description": "Minty green aroma that adds coolness and clarity"
+  },
+  {
+    "id": "sandalwood",
+    "name": "Sandalwood",
+    "collection": "green-water",
+    "price": 5499,
+    "image": "fragrance/green-water/p-5.png",
+    "description": "Warm woody-green aroma with comforting earthy tones"
+  },
+  {
+    "id": "aqua",
+    "name": "Aqua",
+    "collection": "green-water",
+    "price": 5499,
+    "image": "fragrance/green-water/p-6.png",
+    "description": "Breezy aquatic freshness ideal for modern interiors"
+  },
+  {
+    "id": "cool-water",
+    "name": "Cool Water",
+    "collection": "green-water",
+    "price": 5499,
+    "image": "fragrance/green-water/p-7.png",
+    "description": "Deep aquatic notes with premium freshness"
+  },
+  {
+    "id": "ice-blast",
+    "name": "Ice Blast",
+    "collection": "green-water",
+    "price": 5499,
+    "image": "fragrance/green-water/p-8.png",
+    "description": "Ultra-cold mint-water blend for instant freshness"
+  },
+  {
+    "id": "midas-touch",
+    "name": "Midas Touch",
+    "collection": "green-water",
+    "price": 5499,
+    "image": "fragrance/green-water/p-9.png",
+    "description": "A luxurious watery-fresh fragrance with soft depth"
+  }
+
+
+  , {
+    "id": "corporate-note",
+    "name": "Denim",
+    "collection": "corporate-note",
+    "price": 5499,
+    "image": "fragrance/corporate-note/p-2.png",
+    "description": "A bold, masculine perfume-inspired fresh note."
+  },
+  {
+    "id": "black-touch",
+    "name": "Black Touch",
+    "collection": "corporate-note",
+    "price": 5499,
+    "image": "fragrance/corporate-note/p-3.png",
+    "description": "Deep, premium scent with strong masculine character"
+  },
+  {
+    "id": "black-feel",
+    "name": "Black Feel",
+    "collection": "corporate-note",
+    "price": 5499,
+    "image": "fragrance/corporate-note/p-1.png",
+    "description": "Rich, intense fragrance with dark luxury appeal"
+  },
+  {
+    "id": "oudh",
+    "name": "Oudh",
+    "collection": "corporate-note",
+    "price": 5499,
+    "image": "fragrance/corporate-note/p-4.png",
+    "description": "Deep, woody, premium oudh for classy spaces."
+  }
+    ]
+}

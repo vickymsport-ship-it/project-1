@@ -1,0 +1,61 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "A Gentle Bloom in Every Breath",
+            "description": "There's something enchanting about the delicate beauty of blooming flowers — the kind that instantly brightens your mood the moment it fills the air. Primmox Floral brings that same magic into your home. Every spray feels like walking through a pastel garden where petals dance in the breeze.",
+            "image": "/media/m-1.jpg",
+            "category": "Product Story"
+        },
+        {
+            "id": 2,
+            "title": "A Fresh Start. Every Single Day",
+            "description": "Mornings define the mood of your entire day — and the right start is crafted to make that first moment unforgettable. As the sun rises, this fragrance fills your space with crisp, refreshing notes that awaken your senses. Its clean, energizing aroma turns your room into a place of positivity and cal...",
+            "image": "/media/m-2.jpg",
+            "badge": "30 DAYS",
+            "category": "Lifestyle"
+        },
+        {
+            "id": 3,
+            "title": "Let Your Car Tell a Fresh Story with Facts",
+            "description": "Your car is your second home. Primmox car fresheners are designed to make every drive smoother, lighter, and more memorable. Whether it's your daily commute or a weekend road trip, the right fragrance can lift your mood instantly.",
+            "image": "/media/m-3.png",
+            "category": "Product Feature"
+        },
+        {
+            "id": 4,
+            "title": "Freshness Inspired by Nature",
+            "description": "Think of the peaceful stillness of a forest — sunlight filtering through leaves, dew settling over moss, and the air feeling untouched by time. That's freshness. Primmox Nature Fresh captures this moment beautifully. It brings the outdoors inside, filling your space with a green, earthy, rejuvenating aroma that instantly soo...",
+            "image": "/media/m-4.jpg",
+            "category": "Nature Collection"
+        },
+        {
+            "id": 5,
+            "title": "A Breath of Cool, Clean Air",
+            "description": "Imagine a moment of pure clarity — a cool breeze sweeping across your face, carrying with it the crisp scent of fresh water. That's the feeling Primmox Aqua brings into your space. Its refreshing marine notes cut through heaviness, lifting the atmosphere like a deep, calming breath. Perfect for workspaces, living...",
+            "image": "/media/m-5.jpg",
+            "category": "Aqua Series"
+        },
+        {
+            "id": 6,
+            "title": "Freshness Engineered for Every Moment",
+            "description": "Some fragrances fill just one room — others transform the entire atmosphere. Primmox Aqua Citrus does exactly that. Blending cool aquatic freshness with the sharp sweetness of citrus fruits, it creates a crisp, revitalizing experience that clears the air instantly. Every spray feels like a deep breath of clean, cool...",
+            "image": "/media/m-6.png",
+            "category": "Technology"
+        },
+        {
+            "id": 7,
+            "title": "A Burst of Energy in Every Spray",
+            "description": "Vibrant. Zesty. Uplifting. Primmox Citrus is your instant pick-me-up — a bold burst of orange and lemon that brightens the room and awakens the senses. Like slicing into a juicy lemon on a summer afternoon, the fragrance fills the air with sharp, clean freshness. It cuts through kitchen odors, energizes...",
+            "image": "/media/m-7.jpg",
+            "category": "Citrus Line"
+        },
+        {
+            "id": 8,
+            "title": "A Fragrance That Speaks the Language of Love",
+            "description": "Roses have a way of saying what words often can't. They're elegant, emotional, and timeless — just like FreshThink Rose. This fragrance envelopes your space in a soft, romantic aroma that feels both classic and refreshing. With every spray, it releases the essence of fresh rose petals dancing in the ai...",
+            "image": "/media/m-8.jpg",
+            "category": "Romance"
+        }
+    ]
+}

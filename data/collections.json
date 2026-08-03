@@ -1,0 +1,18 @@
+{
+  "collections": [
+    {
+      "id": "primmox",
+      "name": "Primmox",
+      "description": "Our premium collection of sophisticated and bold fragrances",
+      "image": "/placeholder.svg?height=400&width=600",
+      "productCount": 3
+    },
+    {
+      "id": "fresh-think",
+      "name": "Fresh Think",
+      "description": "Refreshing and vibrant fragrances for modern living",
+      "image": "/placeholder.svg?height=400&width=600",
+      "productCount": 3
+    }
+  ]
+}
